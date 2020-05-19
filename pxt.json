@@ -1,0 +1,17 @@
+{
+    "name": "Elvis 1.3",
+    "dependencies": {
+        "device": "*",
+        "feather": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
